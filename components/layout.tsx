@@ -4,8 +4,8 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = '{{ cookiecutter.repo_name }}'
-export const siteTitle = '{{ cookiecutter.repo_name }} Next.js-React Sample Website'
+const name = 'mats-first-react-app'
+export const siteTitle = 'mats-first-react-app Next.js-React Sample Website'
 
 export default function Layout({
   children,

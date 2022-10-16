@@ -1,5 +1,5 @@
 {
-  "name": "{{ cookiecutter.repo_name }}",
+  "name": "mats-first-react-app",
   "private": true,
   "scripts": {
     "dev": "next dev",
